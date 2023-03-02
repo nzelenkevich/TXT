@@ -1,1 +1,13 @@
-
+	Issue Title: Windows – Product Details Page – The product image can't be zoomed in,
+	Issue Type: Visual,
+	Frequency: Every Time,
+	Priority: Low,
+	Action Performed:
+	1. Click on the image of the product,
+	2. Open https://academybugs.com/find-bugs/,
+	3. Open any product,
+	4. Observe the image of the product,
+	5. The image is broken
+	Expected Result: A zoomed image of the product is shown,
+	Actual Result: The image is broken,
+	Error Message: There is no error message
